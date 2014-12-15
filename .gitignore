@@ -10,3 +10,4 @@ pom.xml
 
 .idea
 .lein-git-deps
+om_semantic.iml
